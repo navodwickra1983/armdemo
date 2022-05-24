@@ -27,7 +27,7 @@
       "value": "Standard_D2_v2"
     },
     "location": {
-      "value": "eastus"
+      "value": "uksouth"
     },
     "vmName": {
       "value": "simple-vm"
